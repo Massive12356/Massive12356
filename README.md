@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Edward, a Junior Frontend Developer... I specialize in building responsive and user-friendly websites using HTML, CSS, JavaScript, and React. I combine strong technical skills with soft skills like teamwork, communication, and problem-solving to create functional and visually appealing interfaces. My focus is on delivering seamless performance and an exceptional user experience.
+Hi, I'm Edward, a Junior Frontend Developer... I specialize in building responsive and user-friendly websites using HTML, CSS, JavaScript,ReactJs and NextJs . I combine strong technical skills with soft skills like teamwork, communication, and problem-solving to create functional and visually appealing interfaces. My focus is on delivering seamless performance and an exceptional user experience.
 
 
 ## 🌐 Socials:
